@@ -16,4 +16,4 @@ Paint legt die Daten der Pixel (3 Bytes) wie folgt ab:
 Suchen wir uns die Adresse dieses Pixel, sparen wir uns viel Arbeit, 
 weil wir den gesamten Speicher in einem Stück ablegen können.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SLF0-G_G68k?si=bcKoHnymDgyVAWO7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SLF0-G_G68k/0.jpg)](https://www.youtube.com/watch?v=SLF0-G_G68k)
